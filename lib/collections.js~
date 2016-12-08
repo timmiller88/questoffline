@@ -1,0 +1,5 @@
+// this collection stores all the documents 
+this.Players = new Mongo.Collection("players");
+
+// this collection stores all the documents 
+this.Bubbles = new Mongo.Collection("bubbles");
