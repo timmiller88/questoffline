@@ -1,0 +1,3 @@
+playerSize = 80
+BLACK = (255,255,255)
+gameRunning = false;
